@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Punchout", "Test_Punchout\Test_Punchout.csproj", "{08609065-B30E-43EA-A81F-E69B89B9B712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08609065-B30E-43EA-A81F-E69B89B9B712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08609065-B30E-43EA-A81F-E69B89B9B712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08609065-B30E-43EA-A81F-E69B89B9B712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08609065-B30E-43EA-A81F-E69B89B9B712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA6433B-127D-4E15-BC01-DADFA277AC9E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gss-tst-tf.govsci.com/gss
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Test_Punchout\\Test_Punchout.csproj
+		SccProjectName1 = Test_Punchout
+		SccLocalPath1 = Test_Punchout
+	EndGlobalSection
+EndGlobal
